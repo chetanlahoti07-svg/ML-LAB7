@@ -43,6 +43,6 @@ This project uses the Gaussian Naive Bayes algorithm to classify raisins into **
 
 ## 👨‍💻 Author
 **Chetan Lahoti**  
-Roll No: 13 | AIML | Section A_A2
+Roll No: 13 | AIML | Section A_A1
 
 **Purpose:** Academic Machine Learning Practical 7.
